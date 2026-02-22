@@ -1,7 +1,28 @@
-# Credit Risk Prediction and Loan Classification Using Machine Learning
-Project Based-Internship (PBI) Data Scientist - id/x Partners x Rakamin Academy
+# **Credit Risk Prediction and Loan Classification Using Machine Learning**
+## **Overview**
+### **Introduction**
 
-As the final task of my internship contract as a Data Scientist Intern at ID/X Partners, I am responsible for developing a credit risk prediction model for a lending company using Python. In this project, I collaborate with various departments to process the loan dataset, both accepted and rejected loans, to build an end-to-end solution that aligns with Data Science methodologies. Besides focusing on the technical aspects of modeling, I am also creating clear and communicative visual media to effectively present this strategic solution to the client.
+Hii!, I'm **Musawan Paembonan**, a **Data Enthusiast📊** who completed my final project as a **Data Scientist💻** in the virtual Project-Based Internship program at **ID/X Partners**. With a dataset consisting of 466,285 rows and 75 columns, **I developed an optimal model to predict the loan status of customers using classification algorithms in supervised learning🔐**. 
+
+## **Outline**
+
+| **Section**        | **Description**                                                                                                     |
+|--------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Problem Statement** | <ul><li>High credit risk with 12.29% default rate from 460,000 customers.</li><li>56,434 customers in default, representing the company's Exposure at Default (EAD).</li></ul> |
+| **Goal**           | <ul><li>Reduce defaults and increase profitability by improving credit risk assessment accuracy.</li></ul>                          |
+| **Objective**      | <ul><li>Develop a machine learning model to identify defaults and assess credit risk.</li><li>Improve credit risk assessment before loan approval and evaluate model impact on revenue and risk.</li></ul> |
+
+## **Project Overview**
+
+
+
+
+
+
+
+
+
+
 
 ![Project Based Internship - Credit Risk Prediction Model](Project%20Based-Internship%20-%20Credit%20Risk%20Prediction%20Model.png)
 
